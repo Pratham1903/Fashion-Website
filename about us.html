@@ -1,0 +1,159 @@
+<html>
+<head>
+    <title>About Us</title>
+    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/78104fc02e.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+</head>
+<body>
+  <div class="main">
+    <nav class="navbar navbar-expand-sm  aa fixed-top">
+      <a class="navbar-brand">FASHION</a>
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <i class="fas fa-info-circle fa-1x" style="color: black;"></i> 
+          <a class="nav-link1" href="about us.html">About Us</a>
+        </li>
+        <li class="nav-item">
+          <i class="fas fa-phone-alt fa-1x" style="color: black;"></i>
+          <a class="nav-link2" href="contact-us.html">Contact Us</a>
+        </li>
+        <li class="nav-item">
+          <i class="fas fa-layer-group" style="color: black;"></i>
+          <a  class="nav-link3" href="view product.html">View Product</a>
+        </li>
+        <li class="sgn">
+          <i class="fas fa-sign-in-alt"></i>
+          <a class="nav-link4" href="sing-in.html">Sign up</a>
+        </li>
+        <li class="lgn">
+          <i class="fas fa-user"></i>
+          <a class="nav-link5" href="login.html">Login</a>
+        </li>
+      </ul>
+    </nav> 
+    <img class="pinkimg"  src="pinkimg.jpg" alt="">
+  </div>
+  <div class="sub">
+    <h1>FASHION</h1>
+    <h4>Try Something New</h4>
+    <pre><b>Fashion.net</b> is an online marketplace of curated fine jewellery from designers across
+the globe only for you. We are a platform for online jewellery seeking modern,
+contempary or classic desgin with a personal touch. You can shop from our ready-to
+wear designer collection or customize our desgin to suit your personal style. seeking
+desgin excellence and integrity,variety and style,we have assembled the best
+jewellery desgins from innovative designers around the world. We also like to meet you in
+personal inspite of being an online platform. You can visit our lounge,where our designer
+experts will be happy to assist you choose a desgin from our wide collection of fine
+jewellery or create your own design. Our relationship-based customer care will ensure an
+experience of buying jewellery that is relevant and exclusive to  you!
+Traditional Indian ornament like Nose Pin and Nose Rings can also be found studded
+with Diamonds. Irreplaceable jewellery like Necklace and Earings with sensational
+desgins has ruled the market for a long period of time. No bridal jewellery is complete
+without Diamond Stones studded to them. Indian weddings without an exchange of
+Diamonds Rings seems so out of fashion. Hand worn jewellery like Diamond studded
+Bracelet and Bangles are in demands now. The lustrous Diamond jewellery is enough to
+excite and astound anybody who is passionate about its sheen.
+    </pre>
+    <img  id="myImg" src="shoot.jpg" alt="Diamond ring">
+    <img id="myImg1" src="diamond.jpg" alt="Diamond necklace">
+    <img id="myImg2" src="diamond earring.jpg" alt="Diamond earring">
+    <div id="myModal" class="modal">
+      <span class="close">&times;</span>
+      <img class="modal-content" id="img01">
+      <div id="caption"></div>
+    </div>
+    <script>
+      var modal = document.getElementById('myModal');
+      var img = document.getElementById('myImg');
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onclick = function()
+      {
+        modal.style.display = "block";
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+      }
+      var span = document.getElementsByClassName("close")[0];
+      span.onclick = function() 
+      { 
+        modal.style.display = "none";
+      }
+    </script>
+    <div id="myModal1" class="modal1">
+      <span class="close1">&times;</span>
+      <img class="modal-content1" id="img02">
+      <div id="caption1"></div>
+    </div>
+    <script>
+      var modal = document.getElementById('myModal1');
+      var img = document.getElementById('myImg1');
+      var modalImg = document.getElementById("img02");
+      var captionText = document.getElementById("caption1");
+      img.onclick = function()
+      {
+        modal.style.display = "block";
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+      }
+      var span = document.getElementsByClassName("close1")[0];
+      span.onclick = function() 
+      { 
+        modal.style.display = "none";
+      }
+    </script>
+     <div id="myModal2" class="modal2">
+      <span class="close2">&times;</span>
+      <img class="modal-content2" id="img03">
+      <div id="caption2"></div>
+    </div>
+    <script>
+      var modal = document.getElementById('myModal2');
+      var img = document.getElementById('myImg2');
+      var modalImg = document.getElementById("img03");
+      var captionText = document.getElementById("caption2");
+      img.onclick = function()
+      {
+        modal.style.display = "block";
+        modalImg.src = this.src;
+        captionText.innerHTML = this.alt;
+      }
+      var span = document.getElementsByClassName("close2")[0];
+      span.onclick = function() 
+      { 
+        modal.style.display = "none";
+      }
+    </script>
+  </div>
+  <div class="footer">
+    <p>Privacy and Policy</p>
+    <p class="to">To ensure you are confident about your purchase, we have an</p>
+    <p class="sd">exclusive Easy Returns and Exchange Policy, which gives you</p>
+    <p class="td">enough time to be in no doubt that you have made the right decision</p>
+    <p class="fr">of buying jewellery from Fashion Collection.com</p>
+    <p class="qn">Quick Navigation</p>
+    <div class="navi">
+        <a href="index.html"><i class="fas fa-home fa-1x" style="color: blue;"></i>Home</a>
+        <a href="about us.html"><i class="fas fa-info-circle fa-1x" style="color: blue;"></i> About Us</a>
+        <a href="contact-us.html"><i class="fas fa-phone-alt fa-1x" style="color: blue;"></i>Contact Us</a>
+    </div>
+    <p class="get">Get In Touch With us:</p>
+    <div class="lnk">
+        <a class="fb" href="https://www.facebook.com/">Facebook</a>
+        <a class="tw" href="https://twitter.com/login">Twitter</a>
+        <a class="ig" href="https://www.instagram.com/">Instagram</a>
+        <a class="ld" href="https://in.linkedin.com/">LinkedIn</a>
+    </div>
+    <div class="line">
+        <hr>
+    </div>
+    <div class="copy">
+        <h4>©Copywright@prathamvarkala</h4>
+    </div>
+</div>
+</body>
+</html>
