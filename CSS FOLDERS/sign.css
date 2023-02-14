@@ -1,0 +1,194 @@
+.main nav
+{
+    background-color: 	#36454F;
+    color:	white;
+    height: 50px;
+}
+a.navbar-brand
+{
+    margin-bottom: 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 105px;
+    font-family: sans-serif;
+}
+.footer
+{
+    position: bottom;
+    margin-top: 250px;
+    width: 1350px;
+    height: 300px;
+    background-color: #28282B;
+    color: white;
+    text-align: center;
+}
+.navi
+{
+    margin-right: 950px;
+}
+.navi a
+{
+    padding: 10px;
+}
+hr
+{
+    background-color: white;
+    margin-top: 8px;
+}
+.copy h4
+{
+    margin-top: -5px;
+    padding: 10px;
+}
+.line hr
+{
+    margin-top: 50px;
+    width: 100%;
+}
+.footer p
+{
+    padding-top: 20px;
+    font-size: 40px;
+    margin-left: 20px;
+}
+p.to
+{
+    font-size: 14px;
+    margin-top: -30px;
+}
+p.sd
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.td
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.fr
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.qn
+{
+    margin-top: -165px;
+    font-size: 20px;
+    margin-left: -800px;
+}
+p.get
+{
+    margin-top: -90px;
+    font-size: 20px;
+    margin-left: 830px;
+}
+.navi i
+{
+    padding: 5px;
+}
+.lnk a
+{
+    margin-left: 850px;
+}
+body
+{
+    background-image: url(black.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 1200px;
+    font-family: sans-serif;
+}
+.signupnow
+{
+    width: 500px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 100px auto 0;
+    margin-left: 415px;
+    text-align: center;
+}
+.signupnow h1
+{
+    color: #1c8adb;
+    margin-bottom: 30px;
+}
+.input-box
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+}
+button
+{
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+.sign-btn
+{
+    background-color: #1c8adb;
+}
+.facebook-btn
+{
+    background-color: #21afde;
+}
+a
+{
+    text-decoration: none;
+}
+hr
+{
+    margin-top: 20px;
+    width: 80%;
+}
+.or
+{
+    background: #fff;
+    width: 30px;
+    margin: -30px auto 10px;
+}
+.signupnow i
+{
+    width: 70%;
+    margin-top: -50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,530 @@
+.main
+{
+    width: 1350px;
+    height: 2000px;
+    margin-top: -370px;
+    padding-top: 1px;
+}
+/* html
+{
+    font-size: 62.5%;
+}
+@media(max-width:998px) {
+    html{
+        font-size: 55%;
+    }    
+}
+@media (max-width:768px) {
+    html{
+        font-size: 45%;
+    }
+} */
+.footer
+{
+    position: bottom;
+    margin-top: 100px;
+    width: 100%;
+    height: 300px;
+    background-color: #28282B;
+    color: white;
+    text-align: center;
+}
+.navi
+{
+    margin-right: 950px;
+}
+.navi a
+{
+    padding: 10px;
+}
+hr
+{
+    background-color: white;
+    margin-top: 8px;
+}
+.copy h4
+{
+    margin-top: -5px;
+    padding: 10px;
+}
+.line hr
+{
+    margin-top: 50px;
+}
+.footer p
+{
+    padding-top: 20px;
+    font-size: 40px;
+    margin-left: 20px;
+}
+p.to
+{
+    font-size: 14px;
+    margin-top: -30px;
+}
+p.sd
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.td
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.fr
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.qn
+{
+    margin-top: -165px;
+    font-size: 20px;
+    margin-left: -800px;
+}
+p.get
+{
+    margin-top: -90px;
+    font-size: 20px;
+    margin-left: 830px;
+}
+.navi i
+{
+    padding: 5px;
+}
+.lnk a
+{
+    margin-left: 850px;
+}
+.cards p
+{
+    color: white;
+    font-size: 50px;
+    margin-left: 440px;
+    margin-top: 35px;
+}
+.card a
+{
+    margin-left: 100px;
+}
+.card
+{
+    margin-left: 135px;
+}
+#card2 img
+{
+    height: 400px;
+    margin-left: 0px;
+}
+.card img
+{
+    height: 500px;
+    padding: 15px;
+    margin-left: 0px;
+}
+#card1
+{
+    margin-left: 555px;
+    margin-top: -700px;
+    padding-bottom: 10px;
+}
+#cardss
+{
+    margin-top: -670px;
+    margin-left: 950px;
+    height: 720px;
+    padding-bottom: 0px;
+}
+#cardss a
+{
+    margin-top: 20px;
+}
+hr.dusra
+{
+    margin-top: 15px;
+    width: 86%;
+    margin-left: 130px;
+}
+body
+{
+    background-image: url(black.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 2800px;
+}
+/* #kiara
+{
+    height: 300px;  
+} */
+.card-img-top
+{
+    margin-left: 100px;
+    border-radius: 20px;
+}
+.card-img-top1
+{
+    margin-left: 150px;
+    border-radius: 20px;
+    height: 370px;
+}
+.brands
+{
+    color: white;
+    font-size: 30px;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+.brands p
+{
+    font-size: 50px;
+    margin-left: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+hr.dusra1
+{
+    margin-top: 15px;
+    width: 1200px;
+    margin-left: -400px;
+}
+.main nav
+{
+    width: 1500px;
+    height: 50px;
+}
+a.navbar-brand
+{
+    margin-bottom: -10px;
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 105px;
+    font-family: "sofia",sans-serif;
+    text-shadow: 2px 2px 2px yellow;
+}
+a.nav-link1
+{
+    margin-left: 0px;
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+}
+a.nav-link2
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 2px;
+}
+a.nav-link3
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 2px;
+}
+a.nav-link4
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 5px;
+    padding-left: 0px;
+}
+a.nav-link5
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 5px;
+    padding-left: 0px;
+}
+.nav-item i
+{
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-left: 0px;
+}
+.sgn i
+{
+    margin-top: 20px;
+    margin-left: 180px;
+}
+.lgn i
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.carousel-inner img 
+{
+    width: 1350px;
+    height: 420px;
+    margin-left: 0px;
+    margin-top: -6px;
+    padding-top: 0px;
+}
+.carousel-control-prev-icon
+{
+    margin-top: 50px;
+    margin-left: -150px;
+}
+.carousel-control-next-icon
+{
+    margin-top: 50px;
+    margin-right: -150px;
+}
+.carousel-item 
+{
+    position: relative;
+    width: 100%;
+}
+.pic 
+{
+    display: block;
+    width: 1200px;
+    height: 500px;
+}
+.overlay 
+{
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    height: 420px;
+    width: 1350px;
+    opacity: 0;
+    transition: .2s ease;
+    background-color: plum;
+}
+.carousel-item:hover .overlay 
+{
+    opacity: 0.2;
+}
+.text 
+{
+    color: purple;
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    overflow: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.carousel-item 
+{
+    position: relative;
+    width: 50%;
+}
+.pc 
+{
+    display: block;
+    width: 1200px;
+    height: 500px;
+}
+.lay 
+{
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left:0px;
+    right: 0;
+    height: 420px;
+    width: 1350px;
+    opacity: 0;
+    transition: .2s ease;
+    background-color: whitesmoke;
+}
+.carousel-item:hover .ly 
+{
+    opacity: 0.2;
+}  
+.txt 
+{
+    color: purple;
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    overflow: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.carousel-item 
+{
+    position: relative;
+    width: 50%;
+}
+.cp 
+{
+    display: block;
+    width: 1200px;
+    height: 500px;
+}
+.ly 
+{
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    height: 420px;
+    width: 1350px;
+    opacity: 0;
+    transition: .2s ease;
+    background-color: gold;
+}
+.carousel-item:hover .lay 
+{
+    opacity: 0.2;
+}  
+.tt 
+{
+    color: purple;
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    overflow: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.carousel-item 
+{
+    position: relative;
+    width: 50%;
+}
+.p 
+{
+    display: block;
+    width: 1200px;
+    height: 500px;
+}
+.l
+{
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0px;
+    right: 0;
+    height: 420px;
+    width: 1350px;
+    opacity: 0;
+    transition: .2s ease;
+    background-color: white;
+}
+.carousel-item:hover .l
+{
+    opacity: 0.2;
+}  
+.t
+{
+    color: purple;
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    overflow: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.hr
+{
+    width: 1150px;
+    height: 120px;
+    margin-top: -10px;
+    margin-left: 105px;
+    padding-top: 0px;
+    opacity: 1;
+    position: absolute;
+}
+.contact
+{
+    font-family: "sofia", sans-serif;
+    margin-top: 450px;
+    margin-left: 260px;
+    padding-top: 14px;
+    position: relative;
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    font-style: inherit;    
+}
+.tele i
+{
+    margin-left: 150px;
+    margin-top: -515px;
+    position: absolute;
+}
+.purse i
+{
+    margin-left: 850px;
+    margin-top: -540px;
+    position: absolute;
+}
+.bag p
+{
+    margin-left: 862px;
+    margin-top: -488px;
+    position: absolute;
+    font-size: 20px;
+}
+.phn i
+{
+    margin-left: 880px;
+    margin-top: -462px;
+    position: absolute;
+}
+.nmbr h1
+{
+    margin-left: 970px;
+    margin-top: -530px;
+    position: absolute; 
+    color: rebeccapurple;
+}
+.scnd
+{
+    margin-left: 1000px;
+    margin-top: -480px;
+    position: absolute; 
+    color: royalblue;
+}
+.aa
+{
+    background-color: white;
+}
+/* @media screen and (min-width:250px) {
+    .main
+    {
+        width: 100%;
+        height: 2000;
+    }
+} */
+
+
+
+
+
+
+
+
+
+
+
+

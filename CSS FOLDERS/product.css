@@ -1,0 +1,364 @@
+.navbar-brand
+{
+    margin-bottom: -10px;
+}
+.footer
+{
+    position: bottom;
+    margin-top: 700px;
+    width: 100%;
+    height: 300px;
+    background-color: #28282B;
+    color: white;
+    text-align: center;
+}
+.navi
+{
+    margin-right: 950px;
+}
+.navi a
+{
+    padding: 10px;
+}
+hr
+{
+    background-color: white;
+    margin-top: 8px;
+}
+.copy h4
+{
+    margin-top: -5px;
+    padding: 10px;
+}
+.line hr
+{
+    margin-top: 50px;
+}
+.footer p
+{
+    padding-top: 20px;
+    font-size: 40px;
+    margin-left: 20px;
+}
+p.to
+{
+    font-size: 14px;
+    margin-top: -30px;
+}
+p.sd
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.td
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.fr
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.qn
+{
+    margin-top: -165px;
+    font-size: 20px;
+    margin-left: -800px;
+}
+p.get
+{
+    margin-top: -90px;
+    font-size: 20px;
+    margin-left: 830px;
+}
+.navi i
+{
+    padding: 5px;
+}
+.lnk a
+{
+    margin-left: 850px;
+}
+body
+{
+    height: 1300px;
+}
+a.navbar-brand
+{
+    margin-bottom: -10px;
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 105px;
+    font-family: "sofia",sans-serif;
+    text-shadow: 2px 2px 2px yellow;
+}
+a.nav-link1
+{
+    margin-left: 0px;
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+}
+a.nav-link2
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 2px;
+}
+a.nav-link3
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 2px;
+}
+.nav-item i
+{
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-left: 0px;
+}
+.sgn i
+{
+    margin-top: 20px;
+    margin-left: 180px;
+}
+.lgn i
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+a.nav-link4
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 5px;
+    padding-left: 0px;
+}
+a.nav-link5
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 5px;
+    padding-left: 0px;
+}
+.sub p
+{
+    font-size: 40px;
+    margin-top: 100px;
+    margin-left: 115px;
+}
+.sub nav
+{
+    width:600px;
+    margin-left: 570px;
+    margin-top: -65px;
+    font-size: 20px;
+}
+.aaa
+{
+    background-color:  #fdf5e6;
+}
+a.nav-links
+{
+    margin-top: 0px;
+    margin-right: 380px;
+    color: black;
+    text-decoration: none;
+}
+a.navbar-brand1
+{
+    font-size: 25px;
+    margin-top: -20px;
+}
+.d-flex
+{
+    margin-top: 0px;
+}
+.sub1
+{
+    width: 720px;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.sub1 nav
+{
+    height: 50px;
+}
+.tablehead
+{
+    padding: 500px;
+}
+.stone
+{
+    width: 100px;
+    margin-left: 20px;
+    /* height: 120px; */
+}
+.gold
+{
+    width: 100px;
+    margin-left: 20px;
+}
+th i
+{
+    margin-left: 150px;
+}
+#fas
+{
+    margin-left: 0px;
+}
+.gold-earing
+{
+    width: 100px;
+    margin-left: 20px;
+}
+h4.me
+{
+    color: green;
+}
+h3
+{
+    color: red;
+}
+.js
+{
+    width: 100px;
+    margin-left: 20px;
+}
+.necklace
+{
+    width: 100px;
+    margin-left: 20px;
+}
+.nose
+{
+    width: 100px;
+    margin-left: 20px;
+}
+table 
+{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 720px;
+    text-align: center;
+    font-size: 20px;
+    height: 100px;
+    margin-left: 550px;
+    margin-top: 0px;
+    
+}
+.br
+{
+    width: 85px;
+    height: 50px;
+    padding-right: 25px;
+}
+.cart
+{
+    width: 250px;
+}
+td i
+{
+    margin-left: 4px;
+}
+.name
+{
+    width: 250px;
+    height: 40px;
+}
+td,th 
+{
+    border: 1px solid;
+    padding-right: 8px;
+}
+  
+tr:nth-child(even) 
+{
+    background-color: #fdf5e6;
+}
+.accordion
+{
+    width: 350px;
+    margin-top: -770px;
+    margin-left: 100px;
+    overflow: hidden;
+    border-radius: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+strong
+{
+    color: black;
+}
+.accordion-header
+{
+    padding: 12px 16px;
+    width: 100%;
+    border: none;
+    outline: none;
+    display: flex;
+    justify-content: space-between;
+    background: beige,brown,#654321;
+    border-bottom: 1px solid darkturquoise;
+    color: #f3f3f3;
+    cursor: pointer;
+}
+.accordion-header.active
+{
+    background-color: #1070b1;
+}
+.accordion-header.active i
+{
+    transform: rotate(180deg);
+    transition: all 0.3s ease-in-out;
+}
+.accordion-body
+{
+    padding: 0 16px;
+    background-color: #f3f3f3;
+    max-height: 0;
+    height: 500px;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+.accordion-body.active
+{
+    max-height: 10rem;
+    padding: 16px;
+}
+.accordion-item a
+{
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

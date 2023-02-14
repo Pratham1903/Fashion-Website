@@ -1,0 +1,478 @@
+.main
+{
+    width: 1350px;
+    height: 1400px;
+    background-color: pink;
+}
+.main nav
+{
+    width: 1500px;
+    height: 50px;
+}
+.footer
+{
+    position: bottom;
+    margin-top: 200px;
+    width: 100%;
+    height: 300px;
+    background-color: #28282B;
+    color: white;
+    text-align: center;
+}
+.navi
+{
+    margin-right: 950px;
+}
+.navi a
+{
+    padding: 10px;
+}
+hr
+{
+    background-color: white;
+    margin-top: 8px;
+}
+.copy h4
+{
+    margin-top: -5px;
+    padding: 10px;
+}
+.line hr
+{
+    margin-top: 50px;
+}
+.footer p
+{
+    padding-top: 20px;
+    font-size: 40px;
+    margin-left: 20px;
+}
+p.to
+{
+    font-size: 14px;
+    margin-top: -30px;
+}
+p.sd
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.td
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.fr
+{
+    margin-top: -40px;
+    font-size: 14px;
+}
+p.qn
+{
+    margin-top: -165px;
+    font-size: 20px;
+    margin-left: -800px;
+}
+p.get
+{
+    margin-top: -90px;
+    font-size: 20px;
+    margin-left: 830px;
+}
+.navi i
+{
+    padding: 5px;
+}
+.lnk a
+{
+    margin-left: 850px;
+}
+.pinkimg
+{
+    margin-left: 830px;
+    width: 500px;
+    height: 600px;
+    margin-top: 150px;
+}
+.navbar-brand
+{
+    margin-bottom: -10px;
+}
+.aa
+{
+    background-color: white;
+}
+a.navbar-brand
+{
+    margin-bottom: -10px;
+    font-weight: bold;
+    font-size: 35px;
+    margin-left: 105px;
+    font-family: "sofia",sans-serif;
+    text-shadow: 2px 2px 2px yellow;
+}
+a.nav-link1
+{
+    margin-left: 0px;
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+}
+a.nav-link2
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 2px;
+}
+a.nav-link3
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 2px;
+}
+.nav-item i
+{
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-left: 0px;
+}
+.sgn i
+{
+    margin-top: 20px;
+    margin-left: 180px;
+}
+.lgn i
+{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+a.nav-link4
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 5px;
+    padding-left: 0px;
+}
+a.nav-link5
+{
+    font-size: 25px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    color: black;
+    text-shadow: 2px;
+    margin-left: 5px;
+    padding-left: 0px;
+}
+.sub h1
+{
+    margin-top: -1300px;
+    margin-left: 100px;
+    font-size: 62px;
+    color: #232b2b;
+    font-family: Arial Unicode MS, sans-serif;
+}
+.sub h4
+{
+    margin-top: 22px;
+    margin-left: 100px;
+    font-size: 40px;
+    color:  #414a4c;
+    font-family: sans-serif;
+}
+pre
+{
+    margin-left: 110px;
+    padding-top: 10px;
+}
+img
+{
+    width: 200px;
+    height: 250px;
+    margin-left: 110px;
+}
+#myImg1
+{
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 200px;
+    height: 250px;
+    margin-left: 30px;
+}
+#myImg2
+{
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 200px;
+    height: 250px;
+    margin-left: 30px;
+}
+#myImg 
+{
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+#myImg:hover 
+{
+    opacity: 0.7;
+}
+#myImg1:hover 
+{
+    opacity: 0.7;
+}
+#myImg2:hover 
+{
+    opacity: 0.7;
+}
+.modal 
+{
+    display: none; 
+    position: fixed;
+    z-index: 1; 
+    padding-top: 200px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%;
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
+}
+.modal-content 
+{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+#caption 
+{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+.modal-content, #caption 
+{  
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+  
+@keyframes zoom 
+{
+    from {transform: scale(0.1)} 
+    to {transform: scale(1)}
+}
+.close 
+{
+    position: absolute;
+    top: 45px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+  
+.close:hover,
+.close:focus 
+{
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+@media only screen and (max-width: 200px)
+{
+    .modal-content 
+    {
+      width: 100%;
+    }
+}
+.modal1 
+{
+    display: none; 
+    position: fixed;
+    z-index: 1; 
+    padding-top: 200px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%;
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
+}
+.modal-content1 
+{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+#caption1 
+{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+.modal-content1, #caption1 
+{  
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+  
+@keyframes zoom 
+{
+    from {transform: scale(0.1)} 
+    to {transform: scale(1)}
+}
+.close1 
+{
+    position: absolute;
+    top: 50px;
+    right: 35px;
+    color: grey;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+  
+.close1:hover,
+.close1:focus 
+{
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+@media only screen and (max-width: 200px)
+{
+    .modal-content1 
+    {
+      width: 100%;
+    }
+}
+.modal2
+{
+    display: none; 
+    position: fixed;
+    z-index: 1; 
+    padding-top: 200px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%;
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
+}
+.modal-content2 
+{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+#caption2
+{
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+.modal-content2, #caption2 
+{  
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+  
+@keyframes zoom 
+{
+    from {transform: scale(0.1)} 
+    to {transform: scale(1)}
+}
+.close2 
+{
+    position: absolute;
+    top: 50px;
+    right: 35px;
+    color: grey;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+  
+.close2:hover,
+.close2:focus 
+{
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+@media only screen and (max-width: 200px)
+{
+    .modal-content2
+    {
+      width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
